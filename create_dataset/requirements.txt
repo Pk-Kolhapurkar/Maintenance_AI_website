@@ -1,0 +1,8 @@
+tqdm
+openai
+python-dotenv
+tiktoken
+PyPDF2
+python-pptx
+chromadb
+beautifulsoup4

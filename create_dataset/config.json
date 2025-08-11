@@ -1,0 +1,11 @@
+
+{
+    "inference_engine": "openai",
+    "model_name": "llama3-70b-8192",
+    "model_max_tokens": 8096,
+    "input_folder": "input_data",
+    "output_folder": "generated_questions",
+    "chroma_db_path": "chromadb",
+    "chroma_collection_name": "questions",
+    "duplicate_threshold": 0.1
+}
