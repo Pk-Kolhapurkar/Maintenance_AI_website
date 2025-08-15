@@ -1,0 +1,6 @@
+gradio
+pinecone
+langchain
+requests
+sentence-transformers
+langchain-community
